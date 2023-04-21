@@ -9,3 +9,4 @@
 
 - `./runTool.cmd mvn clean install`
 - `./runTool.cmd mvn spring-boot:run`
+  - Access at <http://localhost:8080>
